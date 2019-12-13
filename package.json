@@ -1,0 +1,23 @@
+{
+  "name": "releases",
+  "version": "0.1.1",
+  "description": "Standard releases",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zendra1994/releases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zendra1994/releases/issues"
+  },
+  "homepage": "https://github.com/zendra1994/releases#readme",
+  "devDependencies": {
+    "standard-version": "^7.0.1"
+  }
+}
